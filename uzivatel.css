@@ -1,0 +1,43 @@
+.top-menu {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  height: 40px;
+  color: white;
+  align-items: center;
+}
+
+.paper {
+  display: flex;
+  flex-direction: column;
+}
+.paper div div {
+  margin: 20px;
+}
+
+.poradi {
+  margin-left: 10px;
+  width: 7%;
+}
+
+.name {
+  margin-right: 10px;
+  width: 36%;
+}
+
+.mail {
+  margin-right: 10px;
+  width: 46%;
+}
+
+.ikon {
+  width: 7%;
+}
+
+.uzivatel {
+  display: flex;
+  flex-direction: row;
+}
+
+/*# sourceMappingURL=uzivatel.css.map */
